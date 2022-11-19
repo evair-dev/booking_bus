@@ -1,0 +1,35 @@
+{
+  "buses": [{
+    "id": "1",
+    "name_bus": "Huaral - Lima"
+  },
+  {
+    "id": "2",
+    "name_bus": "Huacho - Lima"
+  }],
+  "available_schedule": [{
+    "id": "1",
+    "bus_id": "1",
+    "departure_time": "12/19/22 13:55:26"
+  },
+  {
+    "id": "2",
+    "bus_id": "1",
+    "departure_time": "12/20/22 13:55:26"
+  },
+  {
+    "id": "3",
+    "bus_id": "1",
+    "departure_time": "12/21/22  13:55:26"
+  },
+  {
+    "id": "4",
+    "bus_id": "2",
+    "departure_time": "12/22/22 13:55:26"
+  },
+  {
+    "id": "5",
+    "bus_id": "2",
+    "departure_time": "12/23/22 13:55:26"
+  }]
+}
